@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # multi-objective-optimisation
-=======
+
 ﻿# Multi-Objective Optimization of Charge Consumption in Android GUI
 
 This repository focuses on multi-objective optimization of charge consumption in Android GUI applications using the MOEA Framework. The goal is to minimize both the charge consumption due to color profiles and the deviation from a defined reference color scheme.
@@ -96,5 +95,3 @@ License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with the MOEA Framework.  If not, see <http://www.gnu.org/licenses/>.
-
->>>>>>> 0217999 (Multi-Objective Optimisation of Charge Consumption)
