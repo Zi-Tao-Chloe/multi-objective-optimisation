@@ -1,0 +1,63 @@
+import java.io.File;
+import java.util.ArrayList;
+
+public class CalculatorFiles {
+    public static ArrayList<File> CalculatorFiles(){
+        File file1 = new File("imagefiles/calculator1.png");
+        File file2 = new File("imagefiles/calculator2.png");
+        File file3 = new File("imagefiles/calculator3.png");
+        File file4 = new File("imagefiles/calculator4.png");
+        File file5 = new File("imagefiles/calculator5.png");
+        File file6 = new File("imagefiles/calculator6.png");
+        File file7 = new File("imagefiles/calculator7.png");
+        File file8 = new File("imagefiles/calculator8.png");
+        File file9 = new File("imagefiles/calculator9.png");
+        File file10 = new File("imagefiles/calculator10.png");
+        File file11 = new File("imagefiles/calculator11.png");
+        File file12 = new File("imagefiles/calculator12.png");
+        File file13 = new File("imagefiles/calculator13.png");
+        File file14 = new File("imagefiles/calculator14.png");
+        File file15 = new File("imagefiles/calculator15.png");
+        File file16 = new File("imagefiles/calculator16.png");
+        File file17 = new File("imagefiles/calculator17.png");
+        File file18 = new File("imagefiles/calculator18.png");
+        File file19 = new File("imagefiles/calculator19.png");
+        File file20 = new File("imagefiles/calculator20.png");
+        File file21 = new File("imagefiles/calculator21.png");
+        File file22 = new File("imagefiles/calculator22.png");
+        File file23 = new File("imagefiles/calculator23.png");
+        File file24 = new File("imagefiles/calculator24.png");
+        File file25 = new File("imagefiles/calculator25.png");
+        File file26 = new File("imagefiles/calculator26.png");
+        File file27 = new File("imagefiles/calculator27.png");
+        ArrayList<File> fileArrayList = new ArrayList<>();
+        fileArrayList.add(file1);
+        fileArrayList.add(file2);
+        fileArrayList.add(file3);
+        fileArrayList.add(file4);
+        fileArrayList.add(file5);
+        fileArrayList.add(file6);
+        fileArrayList.add(file7);
+        fileArrayList.add(file8);
+        fileArrayList.add(file9);
+        fileArrayList.add(file10);
+        fileArrayList.add(file11);
+        fileArrayList.add(file12);
+        fileArrayList.add(file13);
+        fileArrayList.add(file14);
+        fileArrayList.add(file15);
+        fileArrayList.add(file16);
+        fileArrayList.add(file17);
+        fileArrayList.add(file18);
+        fileArrayList.add(file19);
+        fileArrayList.add(file20);
+        fileArrayList.add(file21);
+        fileArrayList.add(file22);
+        fileArrayList.add(file23);
+        fileArrayList.add(file24);
+        fileArrayList.add(file25);
+        fileArrayList.add(file26);
+        fileArrayList.add(file27);
+        return fileArrayList;
+    }
+}
